@@ -1,3 +1,83 @@
+<<<<<<< Updated upstream
+=======
+["Data Architect", "CA"]	192400
+["Data Architect", "US"]	266400
+["Data Engineer", "AT"]	74130
+["Data Engineer", "DE"]	65013
+["Data Engineer", "ES"]	87932
+["Data Engineer", "FR"]	70139
+["Data Engineer", "GB"]	117789
+["Data Engineer", "GR"]	87932
+["Data Engineer", "IN"]	30428
+["Data Engineer", "IR"]	4000
+["Data Engineer", "JP"]	41689
+["Data Engineer", "MT"]	28369
+["Data Engineer", "MX"]	33511
+["Data Engineer", "NL"]	69741
+["Data Engineer", "PL"]	28476
+["Data Engineer", "TR"]	28016
+["Data Engineer", "US"]	324000
+["Data Engineering Manager", "DE"]	59303
+["Data Engineering Manager", "ES"]	79833
+["Data Engineering Manager", "US"]	174000
+["Data Science Consultant", "DE"]	76833
+["Data Science Consultant", "ES"]	69741
+["Data Science Consultant", "IN"]	5707
+["Data Science Consultant", "US"]	103000
+["Data Science Engineer", "CA"]	127221
+["Data Science Engineer", "GR"]	40189
+["Data Science Engineer", "MX"]	60000
+["Data Science Manager", "FR"]	152000
+["Data Science Manager", "IN"]	94665
+["Data Science Manager", "US"]	241000
+["3D Computer Vision Researcher", "IN"]	5409
+["AI Scientist", "AS"]	18053
+["AI Scientist", "DK"]	45896
+["AI Scientist", "ES"]	55000
+["AI Scientist", "US"]	200000
+["Analytics Engineer", "US"]	205300
+["Applied Data Scientist", "CA"]	54238
+["Applied Data Scientist", "GB"]	110037
+["Applied Data Scientist", "US"]	380000
+["Applied Machine Learning Scientist", "CZ"]	31875
+["Applied Machine Learning Scientist", "US"]	423000
+["BI Data Analyst", "KE"]	9272
+["BI Data Analyst", "US"]	150000
+["Big Data Architect", "CA"]	99703
+["Big Data Engineer", "CH"]	5882
+["Big Data Engineer", "GB"]	114047
+["Big Data Engineer", "IN"]	22611
+["Big Data Engineer", "MD"]	18000
+["Big Data Engineer", "RO"]	60000
+["Big Data Engineer", "US"]	70000
+["Business Data Analyst", "CA"]	70912
+["Business Data Analyst", "IN"]	18442
+["Business Data Analyst", "LU"]	59102
+["Business Data Analyst", "US"]	135000
+["Cloud Data Engineer", "SG"]	89294
+["Cloud Data Engineer", "US"]	160000
+["Computer Vision Engineer", "BR"]	24000
+["Computer Vision Engineer", "DK"]	28609
+["Computer Vision Engineer", "LU"]	10000
+["Computer Vision Engineer", "US"]	125000
+["Computer Vision Software Engineer", "AU"]	150000
+["Computer Vision Software Engineer", "US"]	95746
+["Data Analyst", "CA"]	130000
+["Data Analyst", "DE"]	63831
+["Data Analyst", "ES"]	43966
+["Data Analyst", "FR"]	59102
+["Data Analyst", "GB"]	65438
+["Data Analyst", "GR"]	43966
+["Data Analyst", "IN"]	6072
+["Data Analyst", "NG"]	10000
+["Data Analyst", "PK"]	8000
+["Data Analyst", "US"]	200000
+["Data Analytics Engineer", "DE"]	79197
+["Data Analytics Engineer", "GB"]	50000
+["Data Analytics Engineer", "PK"]	20000
+["Data Analytics Engineer", "US"]	110000
+["Data Analytics Lead", "US"]	405000
+["Data Analytics Manager", "US"]	150260
 ["Head of Data Science", "US"]	224000
 ["Head of Data", "EE"]	32974
 ["Head of Data", "RU"]	230000
@@ -63,84 +143,6 @@
 ["Research Scientist", "PT"]	60757
 ["Research Scientist", "US"]	450000
 ["Staff Data Scientist", "US"]	105000
-["3D Computer Vision Researcher", "IN"]	5409
-["AI Scientist", "AS"]	18053
-["AI Scientist", "DK"]	45896
-["AI Scientist", "ES"]	55000
-["AI Scientist", "US"]	200000
-["Analytics Engineer", "US"]	205300
-["Applied Data Scientist", "CA"]	54238
-["Applied Data Scientist", "GB"]	110037
-["Applied Data Scientist", "US"]	380000
-["Applied Machine Learning Scientist", "CZ"]	31875
-["Applied Machine Learning Scientist", "US"]	423000
-["BI Data Analyst", "KE"]	9272
-["BI Data Analyst", "US"]	150000
-["Big Data Architect", "CA"]	99703
-["Big Data Engineer", "CH"]	5882
-["Big Data Engineer", "GB"]	114047
-["Big Data Engineer", "IN"]	22611
-["Big Data Engineer", "MD"]	18000
-["Big Data Engineer", "RO"]	60000
-["Big Data Engineer", "US"]	70000
-["Business Data Analyst", "CA"]	70912
-["Business Data Analyst", "IN"]	18442
-["Business Data Analyst", "LU"]	59102
-["Business Data Analyst", "US"]	135000
-["Cloud Data Engineer", "SG"]	89294
-["Cloud Data Engineer", "US"]	160000
-["Computer Vision Engineer", "BR"]	24000
-["Computer Vision Engineer", "DK"]	28609
-["Computer Vision Engineer", "LU"]	10000
-["Computer Vision Engineer", "US"]	125000
-["Computer Vision Software Engineer", "AU"]	150000
-["Computer Vision Software Engineer", "US"]	95746
-["Data Analyst", "CA"]	130000
-["Data Analyst", "DE"]	63831
-["Data Analyst", "ES"]	43966
-["Data Analyst", "FR"]	59102
-["Data Analyst", "GB"]	65438
-["Data Analyst", "GR"]	43966
-["Data Analyst", "IN"]	6072
-["Data Analyst", "NG"]	10000
-["Data Analyst", "PK"]	8000
-["Data Analyst", "US"]	200000
-["Data Analytics Engineer", "DE"]	79197
-["Data Analytics Engineer", "GB"]	50000
-["Data Analytics Engineer", "PK"]	20000
-["Data Analytics Engineer", "US"]	110000
-["Data Analytics Lead", "US"]	405000
-["Data Analytics Manager", "US"]	150260
-["Data Architect", "CA"]	192400
-["Data Architect", "US"]	266400
-["Data Engineer", "AT"]	74130
-["Data Engineer", "DE"]	65013
-["Data Engineer", "ES"]	87932
-["Data Engineer", "FR"]	70139
-["Data Engineer", "GB"]	117789
-["Data Engineer", "GR"]	87932
-["Data Engineer", "IN"]	30428
-["Data Engineer", "IR"]	4000
-["Data Engineer", "JP"]	41689
-["Data Engineer", "MT"]	28369
-["Data Engineer", "MX"]	33511
-["Data Engineer", "NL"]	69741
-["Data Engineer", "PL"]	28476
-["Data Engineer", "TR"]	28016
-["Data Engineer", "US"]	324000
-["Data Engineering Manager", "DE"]	59303
-["Data Engineering Manager", "ES"]	79833
-["Data Engineering Manager", "US"]	174000
-["Data Science Consultant", "DE"]	76833
-["Data Science Consultant", "ES"]	69741
-["Data Science Consultant", "IN"]	5707
-["Data Science Consultant", "US"]	103000
-["Data Science Engineer", "CA"]	127221
-["Data Science Engineer", "GR"]	40189
-["Data Science Engineer", "MX"]	60000
-["Data Science Manager", "FR"]	152000
-["Data Science Manager", "IN"]	94665
-["Data Science Manager", "US"]	241000
 ["Data Scientist", "AT"]	91237
 ["Data Scientist", "AU"]	86703
 ["Data Scientist", "BR"]	12901
@@ -177,3 +179,4 @@
 ["Finance Data Analyst", "GB"]	61896
 ["Financial Data Analyst", "US"]	450000
 ["Head of Data Science", "RU"]	85000
+>>>>>>> Stashed changes
